@@ -1,0 +1,11 @@
+{
+  "name": "rbxm-lua",
+  "version": "1.0.0",
+  "description": "Convert rbxm model files into one singular Lua file",
+  "main": "build.js",
+  "author": "nick",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
